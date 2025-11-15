@@ -1,0 +1,9 @@
+PyMuPDF
+pytesseract
+faiss-cpu
+sentence-transformers
+gradio
+google-generativeai
+langchain-text-splitters
+numpy
+Pillow
